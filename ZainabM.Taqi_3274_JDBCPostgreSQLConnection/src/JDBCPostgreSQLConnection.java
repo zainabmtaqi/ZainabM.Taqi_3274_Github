@@ -1,8 +1,8 @@
 
 /***********************************************************
  * 
- * @author Hector Hernandez, PhD
- * Date: 11/16/2022 7:15pm-9:59pm [W]
+ * @author Zainab M. Taqi
+ * Date: 11/16/2022 
  *
  **********************************************************/
 // package net.javaguides.postgresql.tutorial;
